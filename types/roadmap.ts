@@ -71,4 +71,5 @@ export interface UserProfile {
   expected_ctc: string,
   transition_time: string,
   career_note: string,
+  created_at?: string
 }
